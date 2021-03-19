@@ -2,18 +2,31 @@
   "anytime" : [
       "Hang in there!",
       "Have you had some water recently?  Stay hydrated!",
-      "Today is a gift, that's why it's called the Present!"
+      "Today is a gift, that's why it's called the Present!",
+    	"If you focus on what you’ve left behind, you will never be able to see what lies ahead",
+      "You're an awesome friend",
+      "You light up the room",
+      "You deserve a hug right now",
+      "You should be proud of yourself",
+      "You're more helpful than you realize",
+    	"You're a great listener",
+      "Everyone gets knocked down sometimes, but you always get back up and keep going",
+      "You're a candle in the darkness",
+      "You're a great example to others",     
+	    "You're one of a kind!",
       ],
    "morning" : [
       "Did you take your thyroid medicine this morning?",
       "Remember to take the synthroid, wait an hour, take your 8:15am pills, wait 30 min, then eat breakfast.",
       "Did you take your 8:15am pills this morning?",
-      "Good morning!  Open the curtains and let the sunshine in!"
+      "Good morning!  Open the curtains and let the sunshine in!",
+      "Rise and shine!",
+      "Good morning, sunshine!"
       ],
     "afternoon" : [
       "Did you take your 12:45pm pills?",
       "It would feel good to in the sun on the benches out front!",
-      "Remember, if there's nothing good in the cafeteria, you have frozen meals in the freezer.",
+      "If there's nothing good in the cafeteria, you have frozen meals in the freezer.",
       "Have a nutrition shake around 3:00pm or 3:30pm as a snack.",
       "Maybe it's time to take a little walk."
       ],
@@ -21,6 +34,8 @@
       "Did you remember to take your 6:45pm pills?",
       "Glenn usually will call around 8:30pm - 9:00pm.",
       "Try to get a good night's sleep!",
-      "Try not to have anything besides water after 7:00pm"
+      "Try not to have anything besides water after 7:00pm",
+      "Sleep tight!",
+      "Good night!  See you again in the morning!"
       ]
  }
