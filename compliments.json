@@ -1,19 +1,24 @@
 {
   "anytime" : [
-      "Test 1 anytime",
-      "Test 2 anytime",
-      "Test 3 anytime"
+      "Hang in there!",
+      "Have you had some water recently?  Stay hydrated!",
+      "Today is a gift, that's why it's called the Present!"
       ],
    "morning" : [
-      "Test 1 morning",
-      "Test 2 morning"
+      "Did you take your thyroid medicine this morning?",
+      "Remember to take the synthroid, wait an hour, take your 8:15am pills, wait 30 min, then eat breakfast.",
+      "Did you take your 8:15am pills this morning?",
+      "Good morning!  Open the curtains and let the sunshine in!
       ],
     "afternoon" : [
-      "Test 1 afternoon",
-      "Test 2 afternoon"
+      "Did you take your 12:45pm pills?",
+      "It would feel good to go sit in the sun out front for a little while!",
+      "Remember, if there's nothing good in the cafeteria, you have frozen meals in the freezer.
       ],
     "evening" : [
-      "Test 1 evening",
-      "Test 2 evening"
+      "Did you remember to take your 6:45pm pills?",
+      "Glenn usually will call around 8:30pm - 9:00pm.",
+      "Try to get a good night's sleep!",
+      "Try not to have anything besides water after 7:00pm"
       ]
  }
